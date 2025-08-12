@@ -1,0 +1,83 @@
+[
+  {
+    "key": "b7b1b31e-cb43-4d34-8086-3a23396ca327",
+    "name": "Blue jay",
+    "img": "https://media.istockphoto.com/photos/blue-jay-in-tree-picture-id531312698?k=20&m=531312698&s=612x612&w=0&h=Xklt_eENMXBsFBSY0BzpSGzkw31MzOIbmV1AwKbGUAU=",
+    "Species": "C. cristata",
+    "Family": "Corvidae",
+    "Class": "Aves",
+    "price": 44
+  },
+  {
+    "key": "56e0697e-34c5-421a-958b-37d51b8b2a5c",
+    "name": "Red-crested turaco",
+    "img": "https://img2.goodfon.com/wallpaper/nbig/f/78/red-crested-turaco-ptica.jpg",
+    "Species": "T. erythrolophus",
+    "Family": "Musophaginae",
+    "Class": "Aves",
+    "price": 100
+  },
+  {
+    "key": "60d2e6d3-db2d-40eb-9318-b8ae79162017",
+    "name": "Quetzal",
+    "img": "https://d1bv4heaa2n05k.cloudfront.net/user-images/1543501996711/shutterstock-549082930_main_1543502021955.jpeg",
+    "Species": "Pharomachrus antisianus",
+    "Family": "Trogonidae",
+    "Class": "Aves",
+    "price": 100
+  },
+  {
+    "key": "80b24270-9420-4c67-af60-e89ea984b916",
+    "name": "Hyacinth macaw",
+    "img": "https://everwideningcircles.com/wp-content/uploads/2021/06/8577072143_5a6cd08609_k.jpg",
+    "Species": "A. hyacinthinus",
+    "Family": "Psittacidae",
+    "Class": "Aves",
+    "price": 5000
+  },
+  {
+    "key": "66599486-dc19-4300-8a87-5ff1bd35728c",
+    "name": "Hoopoes",
+    "img": "https://loe.org/content/2020-12-04/BIRDNOTE-Hoopoe_Nash_Chou_CC.jpg",
+    "Species": "Upupa epops (Eurasian hoopoe) Linnaeus, 1758",
+    "Family": "Upupidae; Leach, 1820",
+    "Class": "Aves",
+    "price": 311.67
+  },
+  {
+    "key": "917fa9e7-f23b-499c-b4c0-20eed4319ddd",
+    "name": "Red-and-green macaw",
+    "img": "https://www.thesprucepets.com/thmb/FaoeUKb9jh_8yKMgTcR6SSqOxt0=/4097x3073/smart/filters:no_upscale()/red-and-green-macaw-in-flight-507988488-5abeb15cae9ab800373d4f6f.jpg",
+    "Species": "C. cristata",
+    "Family": " Psittacidae",
+    "Class": "Aves",
+    "price": 3000
+  },
+  {
+    "key": "e90243b9-f320-4040-a112-d4abcc5f38c7",
+    "name": "Golden pheasant",
+    "img": "https://images.pexels.com/photos/1571860/pexels-photo-1571860.jpeg",
+    "Species": "C. pictus",
+    "Family": "Phasianidae",
+    "Class": "Aves",
+    "price": 103.25
+  },
+  {
+    "key": "6a1cf303-7215-4a28-9c0e-08497ec9859d",
+    "name": "Stork-billed kingfisher",
+    "img": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/133937841/1800",
+    "Species": " P. capensis",
+    "Family": "Alcedinidae",
+    "Class": "Aves",
+    "price": 44
+  },
+  {
+    "key": "67491c27-f1ff-4563-9906-3ca5e5e84181",
+    "name": "Rainbow lorikeet",
+    "img": "https://cdn.pixabay.com/photo/2021/08/16/03/27/lorikeet-6549172__480.jpg",
+    "Species": "T. moluccanus",
+    "Family": " Psittaculidae",
+    "Class": "Aves",
+    "price": 400
+  }
+]
