@@ -1,9 +1,18 @@
-import React from 'react'
+'use client';
 
-const Home = () => {
+import React, { useContext } from 'react';
+import { SearchContext } from '../component/SearchContext';
+import { Box, Typography } from '@mui/material';
+
+export default function Home() {
+  const { searchText } = useContext(SearchContext);
+
   return (
-    <div>Home</div>
-  )
+    <Box sx={{ p: 2 }}>
+      <Typography variant="h4">Home Component</Typography>
+      <Typography sx={{ mt: 1 }}>
+        You typed: {searchText || 'Nothing yet...'}
+      </Typography>
+    </Box>
+  );
 }
-
-export default Home

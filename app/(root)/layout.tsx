@@ -1,9 +1,15 @@
-import React from 'react'
+'use client';
 
-const layout = () => {
+import { SearchProvider } from '../component/SearchContext';
+import Navbar from '../component/Navbar';  
+import Home from '../component/Home';
+
+export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <div>layout</div>
-  )
+    <SearchProvider>
+      <Navbar />
+      <Home />
+      {children}
+    </SearchProvider>
+  );
 }
-
-export default layout
